@@ -11,12 +11,6 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img  height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 </p>
-<b>Contact:</b>
-<p align="center">
-   <a href="https://www.linkedin.com/in/duc-anh-tran-582329165/">
-      <img alt="Anh's LinkedIN" width="auto" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-</p>
 <b>My Github Stats:</b>
 <br>
 <br>
