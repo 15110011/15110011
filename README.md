@@ -15,8 +15,7 @@
 <br>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=15110011&show_icons=true&theme=default&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=15110011&hide=css,java,html&theme=default">
+  ![Streak](./profile/streak.svg)
 </p>
 
 <b>Playing...</b>
