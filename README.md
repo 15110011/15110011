@@ -1,6 +1,6 @@
 
 <p align="center">
-  Hi there, I'm <b>Duc Anh Tran.</b>
+  Hi there, I'm <b>Duc Anh</b>
 </p>
 <b>Languages and Tools:</b>
 <p align="center">
