@@ -11,10 +11,10 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img  height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 </p>
-<b>My Github Stats:</b>
-<br>
-![Streak](./profile/streak.svg)
-<br>
+<b>Stats:</b>
+<p align="center">
+ <img style="min-width: 100%;" src="https://raw.githubusercontent.com/15110011/15110011/fa6e1003db6210e237eed4d3fc57514ba3402583/profile/streak.svg" alt="GitHub Stats"> 
+</p>
 <b>Playing...</b>
 <div>
   <picture>
