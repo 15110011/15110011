@@ -19,4 +19,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=15110011&hide=css,java,html&theme=default">
 </p>
 
+<b>Playing...</b>
+<div>
+  <picture>
+    <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
+    <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
+    <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+  </picture>
+</div>
+
 
