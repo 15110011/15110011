@@ -13,11 +13,8 @@
 </p>
 <b>My Github Stats:</b>
 <br>
+![Streak](./profile/streak.svg)
 <br>
-<p align = "center">
-  ![Streak](./profile/streak.svg)
-</p>
-
 <b>Playing...</b>
 <div>
   <picture>
